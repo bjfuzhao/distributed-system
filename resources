@@ -22,3 +22,71 @@ https://muratbuffalo.blogspot.com/2019/12/my-distributed-systems-seminars-readin
 9. https://github.com/datatechnology/cornerstone
 
 10. https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/pintos/pintos_2.html
+
+11. https://dblp.uni-trier.de/pers/hd/c/Chand:Saksham
+
+12. https://vadosware.io/post/paxosmon-gotta-concensus-them-all/
+
+13.Understanding Paxos
+https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html
+https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html
+https://www.youtube.com/watch?v=JEpsBg0AO6o
+https://www.youtube.com/watch?v=d7nAGI_NZPk
+https://www.youtube.com/watch?v=SRsK-ZXTeZ0
+
+14. http://quabr.com:8182/55897002/arent-the-paxos-restrictions-that-triggered-zab-development-already-covered-by
+
+15. https://t.cj.sina.com.cn/articles/view/6002635445/165c8f2b50010022og?sudaref=www.google.com&display=0&retcode=6102
+
+16. https://www.zib.de/research/scalable-and-fault-tolerant-algorithms
+
+17. https://vadosware.io/post/paxosmon-gotta-concensus-them-all/
+
+18.https://www.zib.de/research/scalable-and-fault-tolerant-algorithms
+
+19. https://en.wikipedia.org/wiki/Paxos_(computer_science)
+
+20. http://highscalability.com/paper-consensus-protocols-paxos
+
+21. https://logdevice.io/docs/Consensus.html
+
+22. https://www.peopleola.com/tech/cool/20200206/99f5134e2e413190_all.html
+
+23. https://t.cj.sina.com.cn/articles/view/6002635445/165c8f2b50010022og?sudaref=www.google.com&display=0&retcode=6102
+
+24.http://loopjump.com/consensus-revised-paper/
+
+25. https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/
+https://blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/
+https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/
+
+26. https://muratbuffalo.blogspot.com/2018/12/2-phase-commit-and-beyond.html 
+
+27. https://mysqlhighavailability.com/the-king-is-dead-long-live-the-king-our-homegrown-paxos-based-consensus/
+
+28. https://medium.com/connection-reset-by-peer/distributed-consensus-2020-d816c3faab49  
+
+29. http://mysqlhighavailability.com/good-leaders-are-game-changers-raft-paxos/
+
+30. https://toutiao.io/posts/dcsjwt/preview 
+
+31. https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus 
+
+32. http://mysqlhighavailability.com/good-leaders-are-game-changers-raft-paxos/ 
+
+33. https://github.com/yuanrongxi/libpaxos/blob/master/proposer.c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
